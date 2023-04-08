@@ -1,0 +1,16 @@
+{
+  "name": "16-js-basic-praktika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nd":"nodemon ./js-basic-fuctions.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Povilas G (https://github.com/baubasdrsk)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
